@@ -1,7 +1,8 @@
 # SQL
-
+<!DOCTYPE html>
 <html>
 <p>Detailed schema and notes to understand SQL and practice from beginner to advanced</p>
+
 <body>
 <H1> Relational Model </H1>
 <H2> Schemas we consider for example </h2>
@@ -44,11 +45,11 @@
 </tr>
 <tr>
 <td>Or
-<td><strong>
+<td><strong>∨
 </tr>
 <tr>
 <td>Not
-<td>
+<td><strong>¬
 </tr>
 <tr>
 <td>Projection
@@ -80,11 +81,11 @@
 </tr>
 <tr>
 <td>Full Outer Join
-<td>
+<td><strong>⟗
 </tr>
 <tr>
 <td>Right Outer Join
-<td>
+<td><strong>⟖
 </tr>
 <tr>
 <td>Left Outer Join

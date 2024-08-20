@@ -2,22 +2,6 @@
 
 <html>
 <p>Detailed schema and notes to understand SQL and practice from beginner to advanced</p>
-<style> 
-table {
-        border: solid 1px #aaa999;
-        border-collapse: collapse;
-        border-spacing: 0;
-      }
-      table tr th {
-        border: solid 1px #aaa999;
-      }
-      table tr td {
-        border: solid 1px #aaa999;
-        }
-      caption{
-        font-size : 20px
-      }
-</style>
 <body>
 <H1> Relational Model </H1>
 <H2> Schemas we consider for example </h2>

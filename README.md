@@ -4,7 +4,6 @@
 Detailed schema and notes to understand SQL and practice from beginner to advanced
 <head>
 <style> 
-<style>
 table {
         border: solid 1px #aaa999;
         border-collapse: collapse;

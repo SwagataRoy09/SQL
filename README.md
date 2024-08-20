@@ -1,7 +1,7 @@
 # SQL
 <!DOCTYPE html>
 <html>
-Detailed schema and notes to understand SQL and practice from beginner to advanced
+<p>Detailed schema and notes to understand SQL and practice from beginner to advanced</p>
 <head>
 <style> 
 table {

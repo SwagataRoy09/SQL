@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <p>Detailed schema and notes to understand SQL and practice from beginner to advanced</p>
-<head>
 <style> 
 table {
         border: solid 1px #aaa999;
@@ -19,7 +18,6 @@ table {
         font-size : 20px
       }
 </style>
-</head>
 <body>
 <H1> Relational Model </H1>
 <H2> Schemas we consider for example </h2>

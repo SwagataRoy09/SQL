@@ -5,30 +5,7 @@
 
 <body>
 <H1> Relational Model </H1>
-<H2> Schemas we consider for example </h2>
-<table>
-<caption>Customer Relation
-  <tr>
-    <th>Customer_id</th>
-    <th>Customer_name</th>
-    <th>Customer_street</th>
-    <th>Customer_city</th>
-  </tr>
-  <!first>
-  <tr>
-    <td>1</td>
-    <td>Johnson</td>
-    <td>12 Alma Street</td>
-    <td>Palo Alto</td>
-  </tr>
-  <!second>
-  <tr>
-    <td>1</td>
-    <td>Hayes</td>
-    <td>3 Main St</td>
-    <td>Palo Alto</td>
-  </tr>
-</table>
+
 <!-- Symbols and names of symbols-->
 <table>
 <tr>
@@ -91,5 +68,30 @@
 <td>Left Outer Join
 <td><strong>⟕
 </tr>
+
+<H2> Schemas we consider for example </h2>
+<table>
+<caption>Customer Relation
+  <tr>
+    <th>Customer_id</th>
+    <th>Customer_name</th>
+    <th>Customer_street</th>
+    <th>Customer_city</th>
+  </tr>
+  <!first>
+  <tr>
+    <td>1</td>
+    <td>Johnson</td>
+    <td>12 Alma Street</td>
+    <td>Palo Alto</td>
+  </tr>
+  <!second>
+  <tr>
+    <td>1</td>
+    <td>Hayes</td>
+    <td>3 Main St</td>
+    <td>Palo Alto</td>
+  </tr>
+</table>
 </body>
 </html>

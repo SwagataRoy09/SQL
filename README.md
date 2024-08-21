@@ -3,8 +3,8 @@
 <html>
 <body>
 <H1> Index</h1>
-- **Introduction(Introduction.html)
-- [About Page](about.html)
+<ul><li>Introduction (Introduction.html)
+
 
 
 <p>Detailed schema and notes to understand SQL and practice from beginner to advanced</p>

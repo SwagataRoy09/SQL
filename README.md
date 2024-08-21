@@ -1,11 +1,15 @@
 # SQL
 <!DOCTYPE html>
 <html>
+<H1> Index</h1>
+<ul>
+<li><a href ='Introduction.html'>Introduction</a>
+<li>
 <p>Detailed schema and notes to understand SQL and practice from beginner to advanced</p>
 
 <body>
+<br>
 <H1> Relational Model </H1>
-
 <!-- Symbols and names of symbols-->
 <table>
 <tr>

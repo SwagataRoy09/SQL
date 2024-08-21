@@ -2,9 +2,10 @@
 <!DOCTYPE html>
 <html>
 <H1> Index</h1>
-<ul>
-<li><a href ='Introduction.html'>Introduction</a>
-<li>
+- [Index Page](introduction.html)
+- [About Page](about.html)
+
+
 <p>Detailed schema and notes to understand SQL and practice from beginner to advanced</p>
 
 <body>

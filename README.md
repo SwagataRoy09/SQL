@@ -1,14 +1,14 @@
 # SQL
 <!DOCTYPE html>
 <html>
+<body>
 <H1> Index</h1>
-- [Index Page](introduction.html)
+- **Introduction(Introduction.html)
 - [About Page](about.html)
 
 
 <p>Detailed schema and notes to understand SQL and practice from beginner to advanced</p>
 
-<body>
 <br>
 <H1> Relational Model </H1>
 <!-- Symbols and names of symbols-->
